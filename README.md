@@ -1,4 +1,4 @@
-# GUI Password Manager
+# Password Manager
 
 A lighweight and functional password manager with a clean graphical user interface built using Python's Tkinter library.  
 This app allows users to save login credentials and generate random passwords with a simple and intuitive interface.
