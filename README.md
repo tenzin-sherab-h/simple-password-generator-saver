@@ -15,7 +15,7 @@ This app allows users to save login credentials and generate random passwords wi
 
 Here is the main interface of the application:
 
-![Password Manager GUI](./screenshot-gui.jpg)
+![Password Manager GUI](./screenshot-gui.png)
 
 
 ## Disclaimer
