@@ -20,6 +20,5 @@ Here is the main interface of the application:
 
 ## Disclaimer
 
-1. This simple program is only for learning and eduction purpose.
+1. This program is only for learning and education purposes.
 2. Passwords are stored in plain text and the app does not implement encryption or secure authentication.
-
